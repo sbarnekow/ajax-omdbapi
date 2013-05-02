@@ -1,0 +1,9 @@
+ul {
+  list-style-type: none;
+  font-family: Helvetica, serif;
+}
+
+img {
+  height: 100px;
+  margin-right: 10px;
+}
